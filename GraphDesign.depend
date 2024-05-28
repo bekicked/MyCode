@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1716907736 source:d:\datastructureexperiment\大二数据结构与算法\ds_design\graphdesign\dijkstra.c
+	"Dijkstra.h"
+
+1716914562 d:\datastructureexperiment\大二数据结构与算法\ds_design\graphdesign\dijkstra.h
+
+1716914885 source:d:\datastructureexperiment\大二数据结构与算法\ds_design\graphdesign\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Dijkstra.h"
+
